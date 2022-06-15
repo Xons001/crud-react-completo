@@ -1,7 +1,6 @@
 import React from 'react'
 import { useForm } from 'react-hook-form';
 
-
 const EditUserForm = (props) => {
 
     //console.log(props.currentUser);
